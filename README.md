@@ -27,3 +27,9 @@ Learn the aforementioned technologies by building a blog application step by ste
 ```
   npm install ejs --save
 ```
+
+### Install Mongoose
+
+```
+  npm install mongoose
+```
